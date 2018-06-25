@@ -1,0 +1,44 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Stage2InstrNav.cs">
+    <Files>
+      <File FileName="Assets/SpeechControl.cs" Line="42" Column="15" />
+      <File FileName="Assets/Plugins/WindowsVoiceDLL/WindowsVoice.cs" Line="25" Column="4" />
+      <File FileName="Assets/Stage2Menu.cs" Line="60" Column="56" />
+      <File FileName="Assets/PlayerMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/AlphaControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Amanda/Scripts/RoomMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/ScreenController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Cuddle.cs" Line="1" Column="1" />
+      <File FileName="Assets/Amanda/Scripts/FollowChild.cs" Line="1" Column="1" />
+      <File FileName="Assets/Haptics.cs" Line="1" Column="1" />
+      <File FileName="Assets/Stage2InstructionController.cs" Line="33" Column="27" />
+      <File FileName="Assets/Stage2InstrNav.cs" Line="215" Column="34" />
+      <File FileName="Assets/PHQSpeechControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/PHQ9.cs" Line="74" Column="18" />
+      <File FileName="Assets/Stage4MenuController.cs" Line="93" Column="32" />
+      <File FileName="Assets/Gestalt.cs" Line="1" Column="1" />
+      <File FileName="Assets/MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Amanda/Scripts/Raise.cs" Line="1" Column="1" />
+      <File FileName="Assets/Stage4Instr.cs" Line="1" Column="1" />
+      <File FileName="Assets/Stage3Controller.cs" Line="132" Column="39" />
+      <File FileName="Assets/FollowCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets/OVR/Scripts/OVRCameraRig.cs" Line="1" Column="1" />
+      <File FileName="Assets/uniextensions-master/Runtime/Serialization/PolySerializer.cs" Line="1" Column="1" />
+      <File FileName="Assets/uniextensions-master/Runtime/Collections/DefaultDict.cs" Line="1" Column="1" />
+      <File FileName="Assets/Stage4TTS.cs" Line="1" Column="1" />
+      <File FileName="Assets/InstrTTS.cs" Line="1" Column="1" />
+      <File FileName="Assets/Stage4Speech.cs" Line="56" Column="15" />
+      <File FileName="Assets/Stage3Speech.cs" Line="49" Column="18" />
+      <File FileName="Assets/StageSub4Speech.cs" Line="57" Column="5" />
+      <File FileName="Assets/HandsController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Amanda/Scripts/BlackOutController.cs" Line="59" Column="31" />
+      <File FileName="Assets/CuddleInstr.cs" Line="1" Column="1" />
+      <File FileName="Assets/OnboardController.cs" Line="41" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
